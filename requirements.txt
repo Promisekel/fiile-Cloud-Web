@@ -1,2 +1,5 @@
 ﻿streamlit 
 firebase_admin
+requests
+os
+sys
