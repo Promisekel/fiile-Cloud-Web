@@ -4,7 +4,7 @@ import requests
 import os
 
 # Firebase setup
-FIREBASE_CREDENTIALS = "./credentials.json"  # Update with your Firebase credentials path
+FIREBASE_CREDENTIALS = "credentials.json"  # Update with your Firebase credentials path
 FIREBASE_DATABASE_URL = "https://file-pocket.firebaseio.com/"  # Update with your Firebase database URL
 
 # Initialize Firebase
